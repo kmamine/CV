@@ -7,3 +7,4 @@ He is a Ph.D. student at the University of Orleans, France, and completed his en
 
 ![Mohamed Amine KERKOURI](https://media-exp1.licdn.com/dms/image/C4D03AQEmKuQgyQspAw/profile-displayphoto-shrink_800_800/0/1602593759284?e=1671062400&v=beta&t=c7pCbCJrHBrLCk0xAKqG1qM2IZTUlYz2tmV0auYooVc  | width=100)
 
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEmKuQgyQspAw/profile-displayphoto-shrink_800_800/0/1602593759284?e=1671062400&v=beta&t=c7pCbCJrHBrLCk0xAKqG1qM2IZTUlYz2tmV0auYooVc" width="200" height="400" />
