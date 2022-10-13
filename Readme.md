@@ -7,7 +7,7 @@ __________________________________________________________________________
 
 He is a Ph.D. student at the University of Orleans, France, and completed his engineering degree ( Ingénieur d'état ) at the National Institute of Telecommunication and ICT in Oran, Algeria. ( ex. INTTIC, now ENSTTIC). He is interested in deep learning and neural networks, self-supervised learning, and domain adaptation in relation to computer vision. His thesis project aims to model and understand human visual attention mechanisms regarding painting images and cultural heritage.
 
-<a ref="http://www.ensttic.dz/"> ENSTTIC <a/>
+<a href="http://www.ensttic.dz/"> ENSTTIC <a/>
 
 
 
